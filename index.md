@@ -8,15 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Lucas CHARPENTIER
+Elève en cycle pré-ingénieur
 
 
-Disponible XX mois à partir de Date
+[Lucas.Charpentier[at]unilasalle.com](mailto:Lucas.Charpentier@unilasalle.com)
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](linkedin.com/in/lucas-charpentier-90a795352)
 
 Permis B, voiture
 
