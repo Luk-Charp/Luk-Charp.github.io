@@ -9,14 +9,13 @@ hero_image_ratio: is-1by1
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève en cycle pré-ingénieur
 
 
-Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Lucas.Charpentier[at]unilasalle.fr](LucasCharpentier@unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](linkedin.com/in/lucas-charpentier-90a795352)
 
 Permis B, voiture
 
