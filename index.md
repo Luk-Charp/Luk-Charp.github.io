@@ -8,14 +8,12 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Lucas Charpentier
 Elève en cycle pré-ingénieur
 
 
 
 [Lucas.Charpentier[at]unilasalle.fr](mailto:Lucas.Charpentier@unilasalle.fr)
-
-[LinkedIn]([https://www.linkedin.com/in/Lucas.Charpentier](linkedin.com/in/lucas-charpentier-90a795352))
 
 Permis B, voiture
 
