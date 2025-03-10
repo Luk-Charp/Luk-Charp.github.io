@@ -15,7 +15,7 @@ Elève en cycle pré-ingénieur
 
 [Lucas.Charpentier[at]unilasalle.fr](mailto:Lucas.Charpentier@unilasalle.fr)
 
-[LinkedIn]([https://www.linkedin.com/in/Lucas.Charpentier](https://www.linkedin.com/in/lucas-charpentier-90a795352/))
+[LinkedIn]([https://www.linkedin.com/in/Lucas.Charpentier](linkedin.com/in/lucas-charpentier-90a795352))
 
 Permis B, voiture
 
