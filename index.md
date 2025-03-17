@@ -11,7 +11,7 @@ hero_image_ratio: is-1by1
 # Lucas Charpentier
 Elève en cycle pré-ingénieur
 
-[Lucas.Charpentier[at]unilasalle.fr](mailto:Lucas.Charpentier@unilasalle.fr)
+[Lucas.Charpentier[at]etu.unilasalle.fr](mailto:Lucas.Charpentier@etu.unilasalle.fr)
 
 
 [LinkedIn](https://www.linkedin.com/in/lucas-charpentier-90a795352/)
