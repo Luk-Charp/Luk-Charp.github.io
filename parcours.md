@@ -19,25 +19,19 @@ Bac général spécialité Maths, Physique
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – Création libre**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 3 étudiants_
+* Création d’un babyfoot portatif sur le logiciel Onshape
+* conception par imprimante 3D
+* finalisation à la découpeuse laser
 
+`2025` **Promotion de l'école**
+* JPO
+* Salon de l'étudiant
+* Imersions dans l'école des kycéens
+* Organisation et création d'un escape game dans l'école
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
