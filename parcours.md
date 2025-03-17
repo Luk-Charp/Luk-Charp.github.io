@@ -29,7 +29,7 @@ _Réalisé en équipe de 3 étudiants_
 `2025` **Promotion de l'école**
 * JPO
 * Salon de l'étudiant
-* Imersions dans l'école des kycéens
+* Imersions dans l'école des lycéens
 * Organisation et création d'un escape game dans l'école
 
 
