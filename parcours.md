@@ -11,11 +11,11 @@ download_cv: CV Lucas CHARPENTIER.pdf
 
 `2024-2029`
 **Ecole d'ingénieur UniLaSalle Amiens**
-Elève en cycle pré-ingénieur
+*Elève en cycle pré-ingénieur
 
 `2021-2024`
 **Lycée Louis Thuillier**
-Bac général spécialité Maths, Physique 
+*Bac général spécialité Maths, Physique 
 
 ## Expériences
 
