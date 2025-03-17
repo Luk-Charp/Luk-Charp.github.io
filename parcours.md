@@ -42,22 +42,19 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais : niveau B2
+* Espagnol : niveau B1
+* Japonais : niveau A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Visual Studio Code
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Permis B
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+* Langues étrangères
+* Tennis
+* Musculation
+* Lecture
